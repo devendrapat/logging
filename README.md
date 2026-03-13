@@ -31,6 +31,7 @@ It provides a **standardized project structure**, ensuring best practices for:
 ---
 
 ## 🚀 Getting Started
+Following steps must be followed for getting started with logging repository:
 
 ### 1️⃣ Clone the Repository
 
