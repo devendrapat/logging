@@ -28,6 +28,7 @@ enum class LoggingErrorCode : score::result::ErrorCode
     kNoFileFound = 1,
     kParseError,
     kNoChannelsFound
+    kThisEnumIsOnlyForTesting
 };
 
 class LoggingErrorDomain final : public result::ErrorDomain
